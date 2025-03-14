@@ -5,7 +5,9 @@
 
 ###
 
-<img align="right" height="190" src="https://media.discordapp.net/attachments/1250107509797290081/1343257691140653186/I_give_up.png?ex=67bc9db6&is=67bb4c36&hm=60a2b1799616428af0e3ad9336307b48293c884b993d92a84213a5ad0e8c9db9&=&format=webp&quality=lossless&width=676&height=676"  />
+<img align="right" height="400" src="https://sdk.bitmoji.com/render/panel/10229485-454203091_10-s5-v1.png?transparent=1&palette=1&scale=2"  />
+
+###
 
 ###
 
