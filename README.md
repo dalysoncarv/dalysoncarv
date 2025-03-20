@@ -5,7 +5,9 @@
 
 ###
 
-<img align="right" height="400" src="https://sdk.bitmoji.com/render/panel/10229485-454203091_10-s5-v1.png?transparent=1&palette=1&scale=2"  />
+<img align="right" height="300" src="https://sdk.bitmoji.com/render/panel/8263858-454203091_11-s5-v1.png?transparent=1&palette=1&scale=2"  />
+
+###
 
 ###
 
