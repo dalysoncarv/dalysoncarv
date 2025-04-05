@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="300" src="https://sdk.bitmoji.com/render/panel/8263858-454203091_11-s5-v1.png?transparent=1&palette=1&scale=2"  />
+<img align="right" height="400" src= "https://cdn.discordapp.com/attachments/1250107509797290081/1358165885965303950/Copia_de_Design_sem_nome.png?ex=67f2da0c&is=67f1888c&hm=6af2ec3ba38e346a64a074b0e12f32fe0c1d8df85a1e388f051711214a54c305&" />
 
 ###
 
